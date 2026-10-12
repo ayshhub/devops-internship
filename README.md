@@ -8,3 +8,4 @@ During this internship, I hope to improve my practical DevOps skills and gain ha
 
 In my spare time, i love to play chess.
 SCM polling test 2
+deployment
