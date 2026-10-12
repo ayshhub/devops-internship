@@ -7,5 +7,4 @@ I am interested in learning how software development, automation, cloud computin
 During this internship, I hope to improve my practical DevOps skills and gain hands-on experience with modern development and deployment tools.
 
 In my spare time, i love to play chess.
-testing jenkinsssss
-test 1233
+SCM polling test 2
